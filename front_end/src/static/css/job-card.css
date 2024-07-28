@@ -1,0 +1,12 @@
+.job-card{
+    width: 90%; 
+    margin: 0;
+}
+
+.job-card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
